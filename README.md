@@ -11,7 +11,7 @@ This repository holds documentation and software related to the construction.
 
 | Parameter | Value | Description |
 |-----------|-------|-------------|
-| Transceiver | ADALM-PLUTO |  |
+| Transceiver | [ADALM-PLUTO](https://www.analog.com/en/design-center/evaluation-hardware-and-software/evaluation-boards-kits/adalm-pluto.html#eb-overview) |  |
 | Dish diameter | 3.2 meters |  |
 | Slew rate | 20°/s |  |
 | Operating frequency range | 325 MHz to 3.8 GHz |  Limited by antenna radiator |
